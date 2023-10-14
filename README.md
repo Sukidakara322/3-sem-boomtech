@@ -31,7 +31,9 @@ Sprawozdania należy przynieść w formie drukowanej
 Termin oddania - do następnych zajęć (1 tydzien na prawki)
 Pierwsze sprawko robimy razem - następne razem
 !!! Będziemy mieli kolokwium o niepewnościach pomiarowych
-Zaczynamy od cwiczenia 100/b
+Cwiczenia:
+1. 100/b
+2. 44/a 67 sala
 
 
 
