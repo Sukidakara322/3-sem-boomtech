@@ -59,7 +59,7 @@ Zoom -- https://pwr.edu.zoom.us/j/9346779279
 
 
 Logika układów cyfrowych (Zbigniew Buchalski) (L) (3 Grupa)
-https://antoni.sterna.staff.iiar.pwr.edu.pl
+antoni.sterna.staff.iiar.pwr.edu.pl
 1. Układy kombinacyjne: kodery i dekodery (202)
 2. Układy kombinacyjne: układy arytmetyczne (202)
 3. Układy sekwencyjne: rejestry (203)
