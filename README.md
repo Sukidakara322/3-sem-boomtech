@@ -8,6 +8,8 @@ Każde zajęcie 2 programy (100 punktów za program)
 Na ostatnich zajęciach 200 punktów (1 program tylko)
 Lącznie 1400 punktów. Termin oddania programy - do następnych zajęć
 
+Norbert Kozłowski (L) - https://khozzy.notion.site/J-zyki-Programowania-W04ITE-SI0004G-26b954935d774065bebdaa3014403131
+
 
 Podstawy przetwarzania sygnałów (Ewaryst Rafajłowicz) (W + L)
 Zasady zaliczenia 
