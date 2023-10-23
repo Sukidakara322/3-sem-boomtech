@@ -36,6 +36,7 @@ Pierwsze sprawko robimy razem - następne razem
 Cwiczenia:
 1. 100/b
 2. 44/a 67 sala
+3. 48 sala 68
 
 
 
