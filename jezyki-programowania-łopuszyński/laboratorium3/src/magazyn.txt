@@ -1,0 +1,4 @@
+001 jablko 3,2
+010 sliwka 4,00
+011 banan 2,59
+100 kok 342
