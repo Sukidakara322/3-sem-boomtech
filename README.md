@@ -77,6 +77,27 @@ Notatki:
 
 Dla zadanych 3 automatów Moore'a zapisać wyrażenie symboliczne reprezentujace te automaty na podstawie instrukcji 208 (komputerowa realizacja)
 
+Kolejne ćwiczenia notatki:
+
+1 Ćwiczenie
+Dla zadanego przez prowadzącego wyrażenia regularnego z iteracją dokonać syntezy abstrakcyjnej automatu moore'a. (W instrukcji)
+
+2 Ćwiczenie
+Zrealizować schemat automatu parametrycznego przedstawiony na rys 6. I przetestować działanie tego automatu, wykorzystując tabeli prawdy dla sygnałów wyjściowych
+
+3 Ćwiczenie
+Dla wybranych przez studentów trzech grafów automatów Moore'a o minimalnej liczbę 9 stanów dokonać syntezy strukturalną automatu z parametrem wewnętrznym (awu program)
+
+4 Ćwiczenie
+Zrealizować schemat automatu niedeterministego NFA podanego na schemacie numer 6, i przetestować działanie tego automatu
+
+5 Ćwiczenie
+Zrealizować schematy dwóch automatów asynchronicznych przedstawionych na rysunku 12, 13. I przetestować działanie tych automatów
+
+6 Ćwiczenie
+Komputerowa analiza automatów skończonych. Będzie jakiś automat i należy znalezć graf tego automatu(instrukcja 209)
+
+
 Tematy ćwiczeń z logiki układów cyfrowych -- https://imgur.com/a/SjVyzKK
 
 CZEMODAN PHOTO -- https://imgur.com/a/HQBpRFY
