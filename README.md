@@ -100,4 +100,6 @@ Komputerowa analiza automatów skończonych. Będzie jakiś automat i należy zn
 
 Tematy ćwiczeń z logiki układów cyfrowych -- https://imgur.com/a/SjVyzKK
 
+Druga część tematów z logiki układów cyfrowych - https://imgur.com/a/5wP6Ph5
+
 CZEMODAN PHOTO -- https://imgur.com/a/HQBpRFY
